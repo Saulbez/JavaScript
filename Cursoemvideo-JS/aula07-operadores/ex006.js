@@ -1,11 +1,21 @@
 /* 
-Operadores: 
+Operadores Aritméticos: 
 + -> soma
 - -> subtração
 * -> multiplicação
 / -> divisão
 % -> resto da divisão
 ** -> potenciação
+
+Operadores de atribuição:
+= -> Recebe
++= -> recebe 'ele mesmo' + tal valor
+-= -> recebe 'ele mesmo' - tal valor
+.
+.
+.
+X++ ou ++X -> Acrescenta 1
+X-- ou --X -> Decrementa 1
 
 Precedência de operadores:
 () -> O que estiver dentro dos parênteses será resolvido primeiro
